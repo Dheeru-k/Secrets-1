@@ -1,14 +1,4 @@
-# Secrets-1
-Steps To Run  
-
-create a .env file and add these things in that
-
-CLIENT_ID=774994560179-03mq32vsl5apbellbc3tf0uivqakmidk.apps.googleusercontent.com
-CLIENT_SECRET=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
-
-
-
-then run apm install in terminal and then node app.js
+# Secrets
 
 
 # About
